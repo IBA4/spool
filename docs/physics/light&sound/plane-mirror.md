@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reflection
 
 ### *Reflection in plane mirror*
@@ -39,3 +40,7 @@
   Also, the velocity of the image relative to the velocity of the object (relative velocity) is given by
 
   $\vartheta_{io}= \vartheta_o - \vartheta_i\\ \ \ \ \ \ = \vartheta_o - (-\vartheta_o)\\ \ \ \ \ \ = 2\vartheta_o$
+=======
+# Reflection in plane mirror
+
+>>>>>>> cfa68ed095695d1613358421ed323065ad3d6fc0
