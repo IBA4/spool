@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 
 # Reflection
 
 ### *Reflection in plane mirror*
 
-![deviation](light-plane_mirror_deviation.png)
+![deviation](../../../res/light-plane_mirror_deviation.png)
 
 * The angle by which the incident ray deviates  ($\delta$)  after reflecting from a plane mirror is given by
 
@@ -12,11 +12,11 @@
 
 * If the incident ray is rotated through an angle of $\theta$ then the reflected ray is also rotated through an angle of $\theta$.
 
-  ![Incident shift](light-plane_mirror_incident_shift.png)
+  ![Incident shift](../../../res/light-plane_mirror_incident_shift.png)
 
 * If the mirror is rotated by an angle of $\theta$ then the reflected ray is rotated through an angle of $2\theta$.
 
-  ![mirror shift](light-plane_mirror_mirror_shift.png)
+  ![mirror shift](../../../res/light-plane_mirror_mirror_shift.png)
 
 * If the mirror and the incident ray both are rotated through an angle of $\theta$ then the reflected ray is rotated by
 
