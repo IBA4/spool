@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 # Reflection
 
 ### *Reflection in plane mirror*
@@ -11,23 +12,19 @@
 
 * If the incident ray is rotated through an angle of $\theta$ then the reflected ray is also rotated through an angle of $\theta$.
 
-  <img>
+  ![Incident shift](light-plane_mirror_incident_shift.png)
 
 * If the mirror is rotated by an angle of $\theta$ then the reflected ray is rotated through an angle of $2\theta$.
 
-  <img>
+  ![mirror shift](light-plane_mirror_mirror_shift.png)
 
 * If the mirror and the incident ray both are rotated through an angle of $\theta$ then the reflected ray is rotated by
 
   $\Delta r = 2\theta + \theta\\ \ \ \ \ \ = 3\theta$ 
 
-  <img>
-
 * Image formed by plane mirror is virtual, erect and laterally inverted.
 
-  <img>
-
-* Object distance $(u)​$ is always equal to the image distance $(v)​$
+* Object distance $(u)$ is always equal to the image distance $(v)$
 
   $u = v$
 
@@ -40,7 +37,3 @@
   Also, the velocity of the image relative to the velocity of the object (relative velocity) is given by
 
   $\vartheta_{io}= \vartheta_o - \vartheta_i\\ \ \ \ \ \ = \vartheta_o - (-\vartheta_o)\\ \ \ \ \ \ = 2\vartheta_o$
-=======
-# Reflection in plane mirror
-
->>>>>>> cfa68ed095695d1613358421ed323065ad3d6fc0
