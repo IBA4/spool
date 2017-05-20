@@ -100,11 +100,51 @@ When the expression consists of exponential function such as $ \displaystyle a^{
 ###### *Examples*
 
 1. $\displaystyle {\int {\frac{3^{\frac{1}{x}}}{x^2}dx} = -\frac{3^{\frac{1}{x}}}{ln3}+c}$
+
 2. $\displaystyle {\int {\frac{2^{tan^{-1}x}}{1+x^2}dx} = \frac{2^{tan^{-1}x}}{ln2}+c}$
+
 3. $\displaystyle {\int {e^{(x+\frac{1}{x})}(1-\frac{1}{x^2})}dx = e^{(x+\frac{1}{x})} +c}$
+
 4. $\displaystyle {\int {e^{sinx\cdot cosx}\cdot cos2x}\ dx\\ =\int{e^{sinx\cdot cosx}\cdot (cos^2x-sin^2x)}dx\\ = e^{sinx\cdot cosx} + c}$
+
 5. $\displaystyle {\int {\frac{a^{tanx}\cdot secx}{\sqrt{1-sin^2x}}dx}\\= \int{a^{tanx}}\cdot sec^2x\ dx\\=\frac{a^{tanx}}{lna}+c}$
+
 6. $\displaystyle {\int {x\cdot e^{x^2}} dx\\= \frac{1}{2}\int e^{x^2}\cdot 2x\ dx\\=e^{x^2}+c}$
 
+   ​
 
 
+### *Type - 3*
+
+###### *Derivation*
+
+We know,
+
+> $\displaystyle {\frac{d[e^{ax}\cdot f(x)]}{dx} = a\cdot e^{ax}\cdot f(x) + e^{ax}\cdot f'(x)}$
+
+or,
+
+> $\displaystyle {\frac{d[e^{ax}\cdot f(x)]}{dx} = e^{ax}[f(x) + \frac{f'(x)}{a}]}$
+
+Now, integrating both sides,
+
+> $\displaystyle {\int e^{ax}[f(x) + \frac{f'(x)}{a}]dx = \frac{e^{ax}\cdot f(x)}{a} + c}$
+
+
+
+###### *Application of the formula*
+
+As in the other types here also if we come across where we need to integrate the expression of the format on the left hand side we can right the expression in the right hand side as the answer.
+
+ ###### *Examples*
+
+1. $\displaystyle {\int e^{3x}(\frac{3x^2 + 2x}{3})= \frac{e^{3x}\cdot x^2}{3}+c}$
+2. $\displaystyle {\int (x\cdot e^x + e^x)\ dx\\=\int e^x(x + 1)\ dx\\=e^x\cdot x +c}$
+3. $\displaystyle {\int}$
+4. $\displaystyle {\int }$
+5. $\displaystyle {\int }$
+6. $\displaystyle {\int }$
+7. $\displaystyle {\int }$
+8. $\displaystyle {\int }$
+9. $\displaystyle {\int }$
+10. $\displaystyle {\int }$
