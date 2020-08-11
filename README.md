@@ -1,6 +1,6 @@
 # spool
 A `repo` made for dumping all the notes or information on subjects for IOE preparation of Nepal.
-#### you can preview this site [here](https://1ba4.github.io/spool/).
+#### you can preview this site [here](https://iba4.github.io/spool/).
 ## If you are previewing this site, **navigate using above links**
 ## *note*
 - Please keep all the required `.md` files in `/<category>` folder. This is to support github pages just my thought. :)
