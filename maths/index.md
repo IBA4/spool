@@ -24,7 +24,7 @@ Here you can see the information about Maths .
 - [Application of anti-derivatives](topics/Calculus/Apllication_of_Anti-derivatives/intro.html)
 - [Application of Derivatives](topics/Calculus/Apllication_of_Derivatives/intro.html)
 - [Derivatives](topics/Calculus/Derivatives/intro.html)
-- [Intregrations](topics/Calculus/Integration/Integration.md)
+- [Intregrations](topics/Calculus/Integration/Integration.html)
 - [Limits and Continuity](topics/Calculus/Limits_&_Continuity/intro.html)
 </details>
 
@@ -33,24 +33,24 @@ Here you can see the information about Maths .
 
 - [Circle](topics/Co-ordinates/Circle/intro.html)
 - [Co-ordinates in space](topics/Co-ordinates/Co-ordinates_in_space/intro.html)
-- [Ellipse and hyperbola](topics/Co-ordinates/Ellipse_&_hyperbola/intro.md)
-- [Pair of lines](topics/Co-ordinates/Pairs_of_lines/intro.md)
-- [Parabola](topics/Co-ordinates/Parabola/intro.md)
-- [Plane](topics/Co-ordinates/Plane/intro.md)
-- [Straight Lines](topics/Co-ordinates/Straight_lines/intro.md)
+- [Ellipse and hyperbola](topics/Co-ordinates/Ellipse_&_hyperbola/intro.html)
+- [Pair of lines](topics/Co-ordinates/Pairs_of_lines/intro.html)
+- [Parabola](topics/Co-ordinates/Parabola/intro.html)
+- [Plane](topics/Co-ordinates/Plane/intro.html)
+- [Straight Lines](topics/Co-ordinates/Straight_lines/intro.html)
 </details>
 
 <details>
 <summary>Trigonometry</summary>
 
 
-- [Basic Trigonometry](topics/Trigonometry/Basic_trigonometry/intro.md)
-- [Inverse Circular Motion](topics/Trigonometry/Inverse_circular_functions/intro.md)
-- [Properties of triangles](topics/Trigonometry/Properties_of_triangles/intro.md)
-- [Trogonometric equations and general values](topics/Trigonometry/Trigonometric_equations_and_General_values/intro.md)
+- [Basic Trigonometry](topics/Trigonometry/Basic_trigonometry/intro.html)
+- [Inverse Circular Motion](topics/Trigonometry/Inverse_circular_functions/intro.html)
+- [Properties of triangles](topics/Trigonometry/Properties_of_triangles/intro.html)
+- [Trogonometric equations and general values](topics/Trigonometry/Trigonometric_equations_and_General_values/intro.html)
 </details>
 
-[Vector Algebra](maths\topics\Vector_algebra\intro.md) 
+[Vector Algebra](maths\topics\Vector_algebra\intro.html) 
 
 
 
